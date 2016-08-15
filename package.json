@@ -1,0 +1,32 @@
+{
+  "name": "string-concat-perf",
+  "version": "1.0.0",
+  "description": "benchmark different string concat in javascript",
+  "main": "test.js",
+  "dependencies": {
+    "benchmark": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node test",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamine/string-concat-perf.git"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "concat",
+    "test",
+    "benchmark",
+    "perf"
+  ],
+  "author": "Benjamin Eidelman <beneidel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjamine/string-concat-perf/issues"
+  },
+  "homepage": "https://github.com/benjamine/string-concat-perf#readme"
+}
